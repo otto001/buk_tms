@@ -5,7 +5,7 @@ import random
 symbols = ("0", "1", "_")
 directions = ("l", "*", "r")
 
-max_transitions = 50000
+max_transitions = 100000
 
 
 def random_transition_dest():
